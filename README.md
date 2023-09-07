@@ -19,3 +19,10 @@ $ npm install
 ```
 
 # Running the app
+
+```bash
+$ npm run start
+$ npm run ios 
+$ npm run android
+$ npm run web
+```
