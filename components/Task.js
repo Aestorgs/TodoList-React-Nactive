@@ -1,8 +1,8 @@
 import React from "react";
 
-import { View, Text, StyleSheet, TouchableOpacity } from "react-native";
+import { View, Text, StyleSheet,} from "react-native";
 
-const Tasks = (props) => {
+const Task = (props) => {
   return (
     <View style={styles.item}>
       <View style={styles.itemLeft}>
@@ -49,4 +49,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default Tasks;
+export default Task;
